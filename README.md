@@ -14,13 +14,10 @@ A personal technical reflection on Metasploit, its modular architecture, and the
 
 ### My Experience with Bug Bounty Hunting: How I Explain It to Others
 
-A personal reflection on independent vulnerability research, 
-practical learning, and communicating cybersecurity experience 
-beyond traditional employment.
+A personal reflection on independent vulnerability research, practical learning, and communicating cybersecurity experience beyond traditional employment.
 
-[Read the article](./My Experience with Bug Bounty Hunting: How I Explain It to Others/)
+[Read the article](./My%20Experience%20with%20Bug%20Bounty%20Hunting%3A%20How%20I%20Explain%20It%20to%20Others/)
 
 ---
 
 More write-ups and technical articles will be added as I continue my studies and research.
-
