@@ -18,7 +18,7 @@ A personal reflection on independent vulnerability research,
 practical learning, and communicating cybersecurity experience 
 beyond traditional employment.
 
-[Read the article](bug-bounty-experience/)
+[Read the article](My Experience with Bug Bounty Hunting: How I Explain It to Others/)
 
 ---
 
