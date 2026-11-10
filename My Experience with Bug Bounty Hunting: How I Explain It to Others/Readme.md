@@ -13,7 +13,6 @@ Rather than presenting independent research as a substitute for professional emp
 ## Files
 
 - [Read the article (PDF)](bug-bounty-experience.pdf)
-- [LaTeX source code](bug-bounty-experience.tex)
 
 ## Topics Covered
 
